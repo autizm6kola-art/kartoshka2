@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kartoshka2/static/css/main.202ca3c3.css",
+    "main.js": "/kartoshka2/static/js/main.6f2f7712.js",
+    "static/js/453.d37bcb50.chunk.js": "/kartoshka2/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/kartoshka2/index.html",
+    "main.202ca3c3.css.map": "/kartoshka2/static/css/main.202ca3c3.css.map",
+    "main.6f2f7712.js.map": "/kartoshka2/static/js/main.6f2f7712.js.map",
+    "453.d37bcb50.chunk.js.map": "/kartoshka2/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202ca3c3.css",
+    "static/js/main.6f2f7712.js"
+  ]
+}
